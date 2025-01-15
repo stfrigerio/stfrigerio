@@ -45,7 +45,9 @@ Turning coffee ☕ and ideas 💡 into solutions.
 
 ---
 
-Top languages according to Github<br/>
+Top languages according to Github
+<br/>
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stfrigerio&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
