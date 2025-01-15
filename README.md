@@ -6,12 +6,8 @@
 
 # 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=bryanleezh&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
-1
-![](https://github-readme-streak-stats.herokuapp.com/?user=stfrigerio&theme=onedark&hide_border=false)<br/>
-2
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stfrigerio&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-3
-![](https://github-readme-streak-stats.herokuapp.com/?user=stfrigerio&theme=dark&hide_border=true)<br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bryanleezh&icon=0&color=3)](https://visitcount.itsvg.in)
