@@ -1,4 +1,4 @@
-# 🌟 Hello, World! I'm Stefano Frigerio 🇮🇹
+# Hello I'm Stefano 🇮🇹
 
 **Full-Stack Developer | AI Enthusiast | Problem Solver**  
 Turning coffee ☕ and ideas 💡 into solutions.  
