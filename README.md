@@ -42,12 +42,3 @@ Turning coffee ☕ and ideas 💡 into solutions.
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23000000.svg?style=for-the-badge&logo=obsidian&logoColor=purple)  
-
----
-
-Top languages according to Github
-<br/>
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stfrigerio&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
