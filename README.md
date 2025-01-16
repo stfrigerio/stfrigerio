@@ -1,7 +1,7 @@
 # Hello I'm Stefano 🇮🇹
 
 **Full-Stack Developer | AI Enthusiast | Problem Solver**  
-Turning coffee ☕ and ideas 💡 into solutions.  
+Turning ☕ and 🧠💡 into 🏛️.  
 - 🔭 Exploring the future of AI and Humans
 - 🌱 Ever learning
 - 🧠 Philosophically trained with a knack for logical problem-solving and creative thinking.  
